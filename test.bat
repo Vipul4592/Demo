@@ -1,0 +1,1 @@
+echo "This is the test of jenkins with GIT by Vipul"
